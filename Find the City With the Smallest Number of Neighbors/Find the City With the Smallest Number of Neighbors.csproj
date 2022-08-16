@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Find_the_City_With_the_Smallest_Number_of_Neighbors</RootNamespace>
+  </PropertyGroup>
+
+</Project>
